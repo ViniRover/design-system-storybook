@@ -1,0 +1,2 @@
+import{A as t}from"./index.a0736500.js";import"./index.10679581.js";import"./iframe.113e3b78.js";import"./index.43271da7.js";import"./jsx-runtime.1639339c.js";const c={title:"Data display/Avatar",component:t,args:{src:"https://github.com/ViniRover.png",alt:"Vinicius Rover"},argTypes:{src:{control:{type:"text"}}}},p={},e={args:{src:void 0}},m=["Primary","WithFallback"];export{p as Primary,e as WithFallback,m as __namedExportsOrder,c as default};
+//# sourceMappingURL=avatar.stories.38c51a17.js.map
